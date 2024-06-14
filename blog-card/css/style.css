@@ -25,8 +25,7 @@ body {
 .credits {
   color: #777;
   position: fixed;
-  bottom: 24px;
-  left: 24px;
+  bottom:0px;
   font-size: 11px;
   text-align: center;
 }
@@ -119,8 +118,5 @@ body {
   border-radius:4px;
 }
 
-.link-btn:disabled{
-  color:black;
-}
 
 
